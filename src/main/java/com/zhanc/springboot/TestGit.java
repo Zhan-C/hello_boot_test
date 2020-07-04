@@ -9,5 +9,6 @@ package com.zhanc.springboot;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("aaa22222222222");
+        System.out.println("dasdas");
     }
 }
