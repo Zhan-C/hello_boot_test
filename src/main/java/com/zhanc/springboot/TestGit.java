@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("dasdaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddds");
         System.out.println("aaa22222222222dddddddddddddddddddddddddddddddddddddddddddddddddddd");
         System.out.println("dasdas");
+        System.out.println("最后一次测试");
     }
 }
